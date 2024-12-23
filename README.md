@@ -25,12 +25,12 @@ pip install -r requirements.txt
 ### How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/f1-race-stats-analysis.git
+   git clone https://github.com/Tenenti-lorenzo/F1_talk.git
    ```
 
 2. Navigate to the directory:
    ```bash
-   cd f1-race-stats-analysis
+   cd F1_talk
    ```
 
 3. Launch Jupyter Notebook:
